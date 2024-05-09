@@ -17,9 +17,11 @@ To use the dashboard, simply visit the deployed website here and interact with t
 
 Technologies Used:
 
-JavaScript
-D3.js
-HTML/CSS
+1)JavaScript
+
+2)D3.js
+
+3)HTML/CSS
 
 Data Source:
 
